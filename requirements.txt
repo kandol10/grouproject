@@ -1,2 +1,2 @@
 flask
-pyodbc==4.0.30
+
